@@ -2,7 +2,7 @@
 describe('XNFT-Preview-Card-Component', () => {
   beforeEach(() => {
     // Visits the page before each test
-    cy.visit('http://127.0.0.1:5500/nft-preview-card-component-main/'); // Replace with your actual URL
+    cy.visit('http://localhost:8081/'); // Replace with your actual URL
   });
 
   it('should load the page and display the main elements', () => {
