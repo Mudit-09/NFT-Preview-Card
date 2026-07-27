@@ -1,0 +1,8 @@
+{
+    "Test Case 1: XNFT-Preview-Card-Component - should load the page and display the main elements": "TEST_STATUS_SUCCESS",
+    "Test Case 2: XNFT-Preview-Card-Component - should display correct content in the main card elements": "TEST_STATUS_FAILURE",
+    "Test Case 3: XNFT-Preview-Card-Component - should display correct Ethereum value and time left": "TEST_STATUS_SUCCESS",
+    "Test Case 4: XNFT-Preview-Card-Component - should display correct creator information": "TEST_STATUS_SUCCESS",
+    "Test Case 5: XNFT-Preview-Card-Component - should have working footer links": "TEST_STATUS_FAILURE",
+    "Test Case 6: XNFT-Preview-Card-Component - should use the correct font family": "TEST_STATUS_FAILURE"
+}
